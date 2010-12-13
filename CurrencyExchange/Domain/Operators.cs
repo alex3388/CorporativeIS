@@ -7,4 +7,5 @@
         public virtual string Password { get; set; }
         public virtual string Permissions { get; set; }
     }
+    //sdjkadjklasjdddd
 }
